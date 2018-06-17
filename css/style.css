@@ -1,0 +1,93 @@
+h1{
+	text-align: center;
+	padding-top: 10px;
+}
+body{
+	font-family: 'Roboto';
+}
+#heading{
+	color:black;
+	text-align: left;
+}
+.content-area{
+	margin: 1rem 15%;
+	width: auto;
+	height: auto;
+	padding: 4rem 2rem;
+	border: 2px solid grey;
+}
+.jumbotron{
+	padding: 1rem 2rem;
+}
+.locatn{
+	margin: 1rem 15%;
+}
+
+.sub-title {
+	margin: 4rem 15% 0 15%;
+	font-size: 25px;
+	display: block;
+	z-index: 1;
+}
+
+.balance{
+	text-align: right;
+	font-size: 20px;
+	font-weight: 600;
+}
+
+.form-text{
+	font-size: 25px;
+}
+
+.headings{
+	text-align: center;
+	background-color: ;
+	font-weight: 900;
+}
+
+.form1{
+	margin: 2rem 50% auto 10%;
+	width: auto;
+	height: auto;
+	padding: 2rem 2rem;
+	/*border: 2px solid grey;*/
+	overflow-x: hidden;
+	position: absolute;
+	display: block;
+}
+
+.form2{
+	margin: 2rem 10% auto 50%;
+	width: auto;
+	height: auto;
+	padding: 2rem 2rem;
+	/*border: 2px solid grey;*/
+}
+
+.or{
+	font-size: 50px;
+	font-weight: 900;
+	margin: 11rem 40% auto 38%;
+	z-index: 1;
+	position: absolute;
+	display: block;
+}
+
+.thead{
+	font-size: 22px;
+}
+
+.logout{
+	font-size: 26px;
+	margin: 0 15%;
+	width: auto;
+	height: auto;
+	padding: 0.5rem 0.5rem;
+}
+
+div{
+  color:black;
+  font-size:20px;
+
+}

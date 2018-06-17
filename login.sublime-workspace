@@ -1,0 +1,696 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sessio",
+				"session_destroy"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"stock",
+				"stockrte"
+			],
+			[
+				"stk",
+				"stkrate"
+			],
+			[
+				"b",
+				"background\tproperty"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"form-",
+				"form-group"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"resut",
+				"result1"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"fetch_",
+				"db2_fetch_object"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"fu",
+				"fullname"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"mysqli",
+				"mysqli_fetch"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"mysql",
+				"mysql_query"
+			],
+			[
+				"error",
+				"error_reporting"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"Name",
+				"Name"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"pad",
+				"padding-left\tproperty"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"fo",
+				"for\tAttr"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"read",
+				"readfile"
+			],
+			[
+				"over",
+				"overflow-x\tproperty"
+			],
+			[
+				"padding",
+				"padding-right\tproperty"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"padi",
+				"padding-bottom\tproperty"
+			],
+			[
+				"padding-",
+				"padding-left\tproperty"
+			],
+			[
+				"border-left",
+				"border-left\tproperty"
+			],
+			[
+				"padin",
+				"padding-right\tproperty"
+			],
+			[
+				"c",
+				"color\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"left",
+				"padding-left\tproperty"
+			],
+			[
+				"s",
+				"src\tAttr"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"fr",
+				"frameset\tTag"
+			],
+			[
+				"C",
+				"Circles"
+			],
+			[
+				"circle",
+				"Circles"
+			],
+			[
+				"Cir",
+				"Circle"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"str",
+				"strokeRect"
+			],
+			[
+				"draw",
+				"drawCircle"
+			],
+			[
+				"ftp",
+				"ftp"
+			],
+			[
+				"sock",
+				"sockaddr_in"
+			],
+			[
+				"server",
+				"server_socket"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"age",
+				"age1"
+			],
+			[
+				"a",
+				"Age"
+			],
+			[
+				"L",
+				"LastName"
+			],
+			[
+				"First",
+				"FirstName"
+			],
+			[
+				"con",
+				"controller"
+			],
+			[
+				"get_",
+				"get_class"
+			],
+			[
+				"cla",
+				"class_exists"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"body",
+				"body"
+			],
+			[
+				"filter",
+				"filter_input_array"
+			],
+			[
+				"tit",
+				"Title"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"exec",
+				"execute"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"is_bool",
+				"is_bool"
+			],
+			[
+				"is_in",
+				"is_int"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"tb",
+				"tbody\tTag"
+			],
+			[
+				"th",
+				"thead\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Add Repository"
+			],
+			[
+				"packa",
+				"Package Control: Discover Packages"
+			],
+			[
+				"color scheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"color ",
+				"UI: Select Color Scheme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 124.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp2/htdocs/stockmarket/css/css.html",
+		"/C/xampp2/htdocs/stockmarket/css/style.css",
+		"/C/xampp2/htdocs/stockmarket/error.php",
+		"/C/xampp2/htdocs/stockmarket/testing/test1.php",
+		"/C/xampp2/htdocs/stockmarket/profile.php",
+		"/C/xampp2/htdocs/stockmarket/includes/pro_php.php",
+		"/C/xampp2/htdocs/login-system/db.php",
+		"/C/xampp2/htdocs/stockmarket/login.php",
+		"/C/xampp2/htdocs/stockmarket/index.php",
+		"/C/xampp2/htdocs/stockmarket/register.php",
+		"/C/xampp2/htdocs/stockmarket/includes/dbconnect.php",
+		"/C/xampp2/htdocs/stockmarket/logout.php",
+		"/C/xampp2/htdocs/index.php",
+		"/C/Users/IM/Downloads/login-system/profile.php",
+		"/C/Users/IM/AppData/Roaming/Sublime Text 3/Packages/PHP Companion/PHP Companion.sublime-settings",
+		"/C/xampp2/htdocs/Sports-mngmnt/register.php",
+		"/C/xampp2/htdocs/templated-industrious/assets/css/main.css",
+		"/C/xampp2/htdocs/stockmarket/alert.php",
+		"/C/xampp2/htdocs/stockmarket/testing/profile.php",
+		"/C/Users/IM/Downloads/login-system/db.php",
+		"/C/xampp2/htdocs/stockmarket/dbconnect.php",
+		"/C/xampp2/htdocs/stockmarket/home.php",
+		"/C/Users/IM/Downloads/login-system/index.php",
+		"/C/xampp2/htdocs/stockmarket/confirm.php",
+		"/C/xampp2/htdocs/stockmarket/dashboard.php",
+		"/C/xampp2/htdocs/stockmarket/main.php",
+		"/C/xampp2/htdocs/stockmarket/landing.php",
+		"/C/xampp2/htdocs/testing/register.php",
+		"/C/Users/IM/Downloads/register.php",
+		"/C/xampp2/htdocs/testing/test1.php",
+		"/C/Users/IM/Desktop/shareboard/classes/Controller.php",
+		"/C/Users/IM/Desktop/shareboard/models/share.php",
+		"/C/Users/IM/Desktop/shareboard/controllers/shares.php",
+		"/C/Users/IM/Desktop/shareboard/controllers/home.php",
+		"/C/Users/IM/Desktop/shareboard/classes/Messages.php",
+		"/C/Users/IM/Desktop/shareboard/classes/Model.php",
+		"/C/Users/IM/Desktop/shareboard/classes/Bootstrap.php",
+		"/C/Users/IM/Desktop/shareboard/config.php",
+		"/C/Users/IM/Desktop/shareboard/index.php",
+		"/C/xampp2/htdocs/Sports-mngmnt/register_player.php",
+		"/C/xampp2/htdocs/Sports-mngmnt/header.html",
+		"/C/xampp2/htdocs/Sports-mngmnt/footer.html",
+		"/C/xampp2/htdocs/Sports-mngmnt/main.css",
+		"/C/Users/IM/Documents/Sports-mngmnt/main.css",
+		"/C/Users/IM/Documents/Sports-mngmnt/home.php",
+		"/C/Users/IM/Documents/Sports-mngmnt/register_player.php",
+		"/C/Users/IM/Documents/Sports-mngmnt/header.html",
+		"/C/Users/IM/Documents/Sports-mngmnt/footer.html",
+		"/C/xampp2/htdocs/Sports-mngmnt/home.php",
+		"/C/Users/IM/Documents/Sports-mngmnt/footer.php",
+		"/C/Users/IM/Documents/Sports-mngmnt/header.php",
+		"/C/xampp2/htdocs/Sports-mngmnt/test.php",
+		"/C/Users/IM/Documents/Sports-mngmnt/main.html",
+		"/C/Users/IM/Desktop/shareboard/views/home/fram1.html",
+		"/C/Users/IM/Desktop/shareboard/views/home/exp8.html",
+		"/C/Users/IM/Desktop/shareboard/views/home/frame_c.html",
+		"/C/Users/IM/Desktop/shareboard/views/home/frame_b.html",
+		"/C/Users/IM/Desktop/shareboard/views/home/form.css",
+		"/C/Users/IM/Desktop/shareboard/views/home/exp7.html",
+		"/C/Users/IM/Desktop/shareboard/views/home/exp5.html",
+		"/C/Users/IM/Desktop/shareboard/views/home/frame_a.html",
+		"/C/Users/IM/Desktop/shareboard/views/home/exp8.css",
+		"/C/Users/IM/Desktop/shareboard/views/home/exp10.html",
+		"/C/Users/IM/Desktop/shareboard/views/home/experiments_iwt.docx",
+		"/C/Users/IM/Desktop/shareboard/views/home/index.php",
+		"/D/Udemy/Patatap/source.css",
+		"/D/Udemy/Patatap/myscript.js",
+		"/C/Users/IM/Downloads/patatapCloneRefactor/data.js",
+		"/C/Users/IM/Downloads/patatapCloneRefactor/CodeAlong 4/circles.html",
+		"/D/Udemy/Patatap/source.html",
+		"/D/Project Ideas/reviewchecker/js/index.js",
+		"/D/Project Ideas/reviewchecker/index.html",
+		"/C/Users/IM/AppData/Local/Temp/Rar$DIa6468.33372/circles.css",
+		"/D/php.dev/classes/Database.php",
+		"/D/php.dev/index_insert.php",
+		"/D/php.dev/index.php",
+		"/C/Users/IM/workspace/AppletWorks/bin/testhtml.html",
+		"/C/Users/IM/workspace/AppletWorks/bin/game.js",
+		"/C/Users/IM/Desktop/Gamedev-Canvas-workshop-gh-pages/lesson10.html",
+		"/C/Users/IM/workspace/AppletWorks/bin/keyboard.js",
+		"/C/Users/IM/workspace/AppletWorks/bin/bounce.js",
+		"/C/Users/IM/workspace/AppletWorks/bin/game.html",
+		"/C/Users/IM/Desktop/shareboard/assets/css/style.css",
+		"/C/Users/IM/workspace/AppletWorks/bin/HelloJavaParam.html",
+		"/C/Users/IM/Desktop/Gamedev-Canvas-workshop-gh-pages/ballhandler.html",
+		"/C/Users/IM/Desktop/Gamedev-Canvas-workshop-gh-pages/circle.html",
+		"/C/Users/IM/Desktop/Gamedev-Canvas-workshop-gh-pages/lesson01.html",
+		"/C/Users/IM/Desktop/Gamedev-Canvas-workshop-gh-pages/ballhandler.js",
+		"/C/Program Files (x86)/Ampps/www/shareboard/index.php",
+		"/C/Program Files (x86)/Ampps/www/shareboard/views/home/index.php",
+		"/C/Program Files (x86)/Ampps/www/shareboard/views/main.php",
+		"/C/Program Files (x86)/Ampps/phpMyAdmin/config.inc.php",
+		"/C/Program Files (x86)/Ampps/www/shareboard/config.php",
+		"/C/Program Files (x86)/Ampps/www/shareboard/classes/Model.php",
+		"/C/Program Files (x86)/Ampps/phpMyAdmin/setup/config.php",
+		"/C/Users/IM/Downloads/first.tcl",
+		"/C/Users/IM/Downloads/second.tcl",
+		"/C/Users/IM/Downloads/simple1.tcl",
+		"/C/Users/IM/Downloads/http_socket.c",
+		"/C/Users/IM/Downloads/simple.awk",
+		"/C/Users/IM/Downloads/ns-simple.tcl",
+		"/C/Users/IM/Downloads/firstawk.awk",
+		"/C/Users/IM/Downloads/tt1.tr",
+		"/C/Users/IM/Downloads/anup.awk",
+		"/C/Users/IM/Downloads/assgnmnt.txt",
+		"/C/Users/IM/Downloads/simple1 (1).awk",
+		"/C/Users/IM/Downloads/tt.tr",
+		"/C/Users/IM/Downloads/out2.nam",
+		"/C/Users/IM/Downloads/secondout.nam",
+		"/C/xampp/htdocs/shareboard/index.php",
+		"/C/xampp/htdocs/shareboard/classes/Messages.php",
+		"/C/Users/IM/Desktop/http_socket.c",
+		"/C/Users/IM/Desktop/http_client.c",
+		"/C/Users/IM/Desktop/autoptimize_168635fa5cba3c5267e154ebcfc6c813.css",
+		"/C/Program Files (x86)/Ampps/www/Bootcamp/base.html",
+		"/C/Program Files (x86)/Ampps/www/Bootcamp/todo.js",
+		"/C/Program Files (x86)/Ampps/www/Bootcamp/array.js",
+		"/C/Program Files (x86)/Ampps/www/Bootcamp/game.js",
+		"/C/Program Files (x86)/Ampps/www/Bootcamp/secretgame.html",
+		"/C/Program Files (x86)/Ampps/www/Bootcamp/scr.js",
+		"/C/Program Files (x86)/Ampps/www/Bootcamp/script1.html",
+		"/C/Program Files (x86)/Ampps/www/Bootcamp/loops.js",
+		"/C/Users/IM/AppData/Local/Temp/fz3temp-2/autoptimize_168635fa5cba3c5267e154ebcfc6c813.css",
+		"/C/Users/IM/autoptimize_168635fa5cba3c5267e154ebcfc6c813.css",
+		"/C/Program Files (x86)/Ampps/www/Bootcamp/functions.js",
+		"/C/Users/IM/Downloads/Newsletter.html",
+		"/C/Users/IM/Downloads/news2.html",
+		"/C/Users/IM/font-awesome.min.css"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"?><?=",
+			"'];\n",
+			"\t "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 56.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.731192243569,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "login.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 160.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
