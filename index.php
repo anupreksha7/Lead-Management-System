@@ -53,7 +53,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST')
             <input type="password" class="form-control" required autocomplete="off" name="password"/>
             </div>
           
-          <!-- <p class="forgot"><a href="forgot.php">Forgot Password?</a></p> -->
           <div class="form-group">
           <button class="btn btn-block btn btn-primary form-control" name="login" />Log In</button>
           </div>

@@ -1,3 +1,4 @@
+<!--terminating page of auction-->
 <?php
 require('css/css.html'); ?>
 <style type="text/css">
@@ -6,10 +7,20 @@ require('css/css.html'); ?>
 <?php
 	require 'db.php';
 	session_start();
-	$query = $mysqli->query("Update leads set on_sale = '0' where user_id = '0'");
+	$query = $mysqli->query("Update leads set on_sale = '0' where uid = '0'");
 	session_unset();
 	session_destroy();
+	//o mail all the users and winner to pay
+	require 'ack-mail.php';
 ?>
+<?php
+//ongoing auction is finished
+	$auc = $mysqli->query("select * from auction where aid = (select aid from auction where date = (select min(date) from auction where finished = 0))");
+	$auction = $auc->fetch_assoc();
+	$id = $auction['aid'];
+	$com = $mysqli->query("update auction set finished = 1 where aid = '$id'");
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -21,7 +32,7 @@ require('css/css.html'); ?>
 		Thanks a lot for your active participation.
 	</div>
 	<div>
-		The leads who brought will be send to you via email.<br>
+		The leads you bought will be send to you via email.<br>
 		<a href="index.php"><button class="button button-block"/>Home</button></a>
 	</div>
 

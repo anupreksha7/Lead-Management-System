@@ -1,10 +1,12 @@
-<!--logging out the dealer-->
-<?php 
-	require 'includes/dbconnect.php';
+<!--admin logout-->
+<?php
+	require'db.php';
 	require('css/css.html'); ?>
 	<style type="text/css">
 	<?php require ('css/style.css');	?>
-	</style><?php
+	</style>
+
+<?php
 	session_start();
 	session_unset();
 	session_destroy();
@@ -19,11 +21,10 @@
 
 <body>
     <div class="form" style="text-align: center">
-          <h1>Thanks for stopping!! byee</h1>
               
-          <p><?= 'You have been logged out!'; ?></p>
+          <p> 'You have been logged out!'</p>
           
-          <a href="index.php"><button class="button button-block"/>Home</button></a>
+          <a href="home.php"><button class="button button-block"/>Home</button></a>
 
     </div>
 </body>

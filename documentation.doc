@@ -1,0 +1,10 @@
+﻿schema:
+
+table: leads(lid(primary key), name, email_id, contact_no, location, source, cost, on_sale, uid, cpl, min_bid, all_filled, aid,paid)
+
+table: rates(id,mailing,calling)
+
+table: users(name,email,password,id(primary key),active)
+
+table: auction (aid,date,time,duration,finished)
+

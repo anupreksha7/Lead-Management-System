@@ -1,3 +1,4 @@
+<!--dealer registration-->
 <?php 
 
 $_SESSION['name'] = $_POST['full'];
