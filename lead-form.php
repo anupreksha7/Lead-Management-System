@@ -39,8 +39,8 @@
     if ($_FILES["file"]["size"] > 0) {
         $file = fopen($fileName, "r");
         while (($column = fgetcsv($file)) !== FALSE) {
-            $inst = $mysqli->query("insert into leads name, email_id, contact_no, location, source, cost)
-                   values ('" . $column[0] . "','" . $column[1] . "','" . $column[2] . "','" . $column[3] . "','" . $column[4] . "','" . $column[5] . "')");
+            $inst = $mysqli->query("insert into leads (name, email_id, contact_no, location, source, cost)
+                   values ('".$column[0]."','".$column[1]."','".$column[2]."','".$column[3]."','".$column[4]."','".$column[5]."')");
             
             if ($inst) {
                 require 'cplcalculation.php';
